@@ -1,7 +1,7 @@
 # PXChallenge
 This repository is mainly predictions of Covid-19 in Singapore for the PX Challenge
 
-You can look into it [here](...blob/master/PX.ipynb).
+You can look into it [here](PX.ipynb).
 
 ## Table Of Contents:
 | Section| Description|
