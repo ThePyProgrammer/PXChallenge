@@ -1,7 +1,7 @@
 # Singapore Covid-19 Prediction
 **Done by Prannaya Gupta**
 
-In this project, we analyze the Singapore Covid-19 data using multiple Time Series Models. The prediction analyses data from online and runs different models to find an optimum prediction for the Covid-19 Slope. We predicted the COVID-19 outbreak trajectory for Singapore in the next 6 months. (from September 2020 this is very outdated.) This project was done as part of the Singapore Problem X (PX) Challenge. You can look into it [here](PX.ipynb). 
+In this project, we analyze the Singapore Covid-19 data using multiple Time Series Models. The prediction analyses data from online and runs different models to find an optimum prediction for the Covid-19 Slope. We predicted the COVID-19 outbreak trajectory for Singapore in the next 6 months (from September 2020 this is very outdated). We retrieved data from OWID and used ARIMA, a modified version of Double Exponential Smoothing and the Prophet API to test and evaluate the data, and made predictions. This project was done as part of the Singapore Problem X (PX) Challenge. You can look into it [here](PX.ipynb). 
 
 ## Workspace
 
